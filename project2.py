@@ -5,4 +5,4 @@ for x in range(1, 100):
         print ("This is not a Prime number" , n)
         continue
     else:
-        print ("This is a prime number", n)
+        print ("This is a prime number" , n)
